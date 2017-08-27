@@ -1,15 +1,16 @@
 # DotNetCore
 
 
-.Net Core is platform independent .Net. It can run on
+.Net Core is platform independent .Net. It can run on:
 	• Windows
 	• Linux, and
 	• Mac
-I assume it should also run on Android devices.
+	• Android (I assume).
 
 I am running .Net Core 2.0 and its installation/configuration has improved since .Net Core 1.0.
 It comes with Visual Studio 2017.
-For other platforms the steps are straight forward and goes like this
+For other platforms the steps are straight forward and goes like this:
+
 	• Configure the OS (Linux/Mac) to know the package source for .Net Core
 	• Use the appropriate installation tool (apt-get for Linux) to request an install
 	• Use the .Net Core tooling to create and run projects
