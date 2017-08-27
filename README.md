@@ -1,11 +1,11 @@
 # DotNetCore
 
 
-.Net Core is platform independent .Net. It can run on:
+.Net Core is cross-platform .Net. It can run on:
+
 	• Windows
 	• Linux, and
-	• Mac
-	• Android (I assume).
+	• MacOS
 
 I am running .Net Core 2.0 and its installation/configuration has improved since .Net Core 1.0.
 It comes with Visual Studio 2017.
